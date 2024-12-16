@@ -1,0 +1,35 @@
+body  {
+    color: #blue;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin: 0 auto;
+    width: 940px;
+background-color: #D3C7B5;
+	
+}
+
+h1 {
+    padding: 10px;
+    text-align: center;
+	color: #a87b05;
+	background-color:#F1EEDE;
+}
+h2{
+	color: #65351c;
+}
+p {
+    padding: 0 45px;
+    text-indent: 15px;
+}
+#rodape {
+	color:	#777;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 30px 0;
+    border-top: 1px solid #a87b05;
+	background-color:#F1EEDE;
+}
+	#rodape	img	{
+					margin-right:	30px;
+					vertical-align:	middle;
+					width:	94px;
+	}
